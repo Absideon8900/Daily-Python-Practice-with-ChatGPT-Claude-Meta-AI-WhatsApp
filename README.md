@@ -76,18 +76,18 @@ After the loop calculate:<br>
 # Solution:
 ```python
 reservoirs = {
-    "Tilaiya": {"storage": [62, 68, 71, 75], 
-                "release": [18, 20, 19, 22]},
-    "Maithon": {"storage": [81, 85, 88, 90], 
-                "release": [25, 28, 26, 30]},
-    "Panchet": {"storage": [74, 76, 79, 82], 
-                "release": [21, 23, 22, 24]},
-    "Konar": {"storage": [45, 48, 50, 52], 
-              "release": [14, 15, 13, 16]},
+    "Tilaiya":      {"storage": [62, 68, 71, 75], 
+                     "release": [18, 20, 19, 22]},
+    "Maithon":      {"storage": [81, 85, 88, 90], 
+                     "release": [25, 28, 26, 30]},
+    "Panchet":      {"storage": [74, 76, 79, 82], 
+                     "release": [21, 23, 22, 24]},
+    "Konar":        {"storage": [45, 48, 50, 52], 
+                     "release": [14, 15, 13, 16]},
     "Mukutmanipur": {"storage": [92, 95, 94, 96], 
                      "release": [30, 32, 31, 33]},
-    "Durgapur": {"storage": [55, 58, 60, 62], 
-                 "release": [17, 18, 19, 20]}
+    "Durgapur":     {"storage": [55, 58, 60, 62], 
+                     "release": [17, 18, 19, 20]}
 }
 def myfunction(reservoirs):
     result = {}
