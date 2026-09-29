@@ -1,1 +1,1 @@
-# Daily-Python-Practice-with-ChatGPT-Claude-Meta-AI-WhatsApp
+# Daily Python Practice with ChatGPT, Claude & Meta AI (WhatsApp)
